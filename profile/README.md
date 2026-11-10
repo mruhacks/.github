@@ -23,12 +23,12 @@ about tech come from schools across Alberta to build something over the weekend,
 and every skill level is welcome. See what past hackers have built on the
 [project gallery](https://mruhacks.ca/projects).
 
-## 🛠️ What we build
+## What we build
 
 The organizing team also writes the software that runs the event. Everything
 here is open source.
 
-## 🤝 Sponsors
+## Sponsors
 
 MRUHacks wouldn't be possible without our sponsors, including
 **[Arcurve](https://www.arcurve.com)**, the **MRU Institute for Innovation and
